@@ -1,4 +1,4 @@
-# Linear search test file
+# This is a test program for Linear search
 
 TestData = [5, 7, 10, 12, 15]
 
